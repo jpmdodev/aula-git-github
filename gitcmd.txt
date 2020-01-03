@@ -1,0 +1,5 @@
+git clone
+git add .
+git commit -m "mensagem"
+git push
+git checkout -b nome-do-branch
